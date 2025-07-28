@@ -16,6 +16,7 @@
 #include <atomic>
 #include <fstream>
 
+#include "includes.hpp"
 #include "Colors.hpp"
 #include "LogLevel.hpp"
 
