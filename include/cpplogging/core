@@ -1,0 +1,9 @@
+#ifndef WSTL_LOGGING_CORE
+#define WSTL_LOGGING_CORE
+
+
+#include "MACROS.HPP"
+
+
+#endif // WSTL_LOGGING_CORE
+
